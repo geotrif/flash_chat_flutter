@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654247781839",
+    "firebase_url": "https://flash-chat-716e5.firebaseio.com",
+    "project_id": "flash-chat-716e5",
+    "storage_bucket": "flash-chat-716e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654247781839:android:1afe831229700c5f859eba",
+        "android_client_info": {
+          "package_name": "co.geotrif.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654247781839-2rauj9u8ot6bvcek34eaf8ue43638kd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnQVfO7Tug_TmSEBfYWvyDQd-PQmDExE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654247781839-2rauj9u8ot6bvcek34eaf8ue43638kd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
